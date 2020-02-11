@@ -1,0 +1,57 @@
+body{
+	margin: auto;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url('images/gif.gif');
+	background-size: cover;
+
+
+	
+}
+#main{
+	border: 10px white solid;
+	background-color: white;	
+}
+#VJ{
+    text-align: right;
+    background-color: #A8F0F0;
+}
+
+#VJ span{
+	font-size: 14pt;
+}
+
+.SCMC{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-right: 0px;
+	margin-left: 17%;
+	margin-top: 10px;
+	margin-bottom: 0px;	
+}
+.SCMC:hover{
+	text-decoration: underline;
+	text-decoration-color: yellow;
+}
+.Purp{
+	border-bottom: 2px blue dashed !important;
+	
+}
+img{
+	float: right;
+}
+.spacer { clear: both; }
+
+.Friends{
+	
+	border: 4px darkblue solid;
+	background-color: #A8F0F0 ;
+	float: left;
+	margin-top: 10px;
+	width: 200px;
+	box-sizing: border-box;
+    padding-left: 10px;
+    padding-bottom: 25px;
+
+}
